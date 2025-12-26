@@ -17,4 +17,10 @@ python main.py
 ## Requirements
 - Python 3.7+
 - NetworkX
-- Matplotlib 
+- Matplotlib
+  
+- ## Team Members
+- Hager Essa Nady
+- Zeyad Sami
+- Omar Ayman
+- Ahmed Reda
